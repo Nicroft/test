@@ -1,0 +1,11 @@
+- test ShouldReturnNight:
+Este metodo deberia retornar "Night" al ingresar el valor 2, ya que en el condicional esta definida entre los numeros cero y seis, por lo tanto el test debe ser exitoso.
+
+
+- test ShouldNotReturnMorning:
+Este metodo no deberia retornar "Morning" ya que el valor ingresado (13) no está en el rango establecido en el condicional.
+
+- test ShouldReturnAfternoon:
+Este metodo deberia retornar "Afternoon" al ingresar el valor 15, ya que en el condicional esta definida entre los numeros 12 y 18, por lo tanto el test debe ser exitoso.
+
+
