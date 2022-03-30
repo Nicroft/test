@@ -1,0 +1,3 @@
+-Prueba Manual: Se hace prueba de una lista despegable con dos opciones que funcionan de forma correcta.
+
+-Prueba Automatizada: 

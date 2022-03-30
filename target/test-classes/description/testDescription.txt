@@ -9,3 +9,8 @@ Este metodo no deberia retornar "Morning" ya que el valor ingresado (13) no est√
 Este metodo deberia retornar "Afternoon" al ingresar el valor 15, ya que en el condicional esta definida entre los numeros 12 y 18, por lo tanto el test debe ser exitoso.
 
 
+- test ShouldNotReturnEvening:
+Este metodo no deberia retornar "Evening" ya que el valor ingresado (10) no est√° en el rango establecido en el condicional.
+
+- test ShouldReturnFalse:
+Este metodo deberia retornar falso ya que el 25 no es una hora valida porque se sale del rango de valores establecidos en el condicional.
